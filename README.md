@@ -2,7 +2,7 @@
 
 ![demo gif](https://cl.ly/7da1772ebb18/Screen%252520Recording%2525202019-05-08%252520at%25252012.56%252520AM.gif)
 
-🕹 Play the game [here](https://teachable-snake.netlify.com)
+🕹 Play the game [here](https://github.com/AquaDot/TeachableSnake-1/blob/master/public/index.html)
 
 👉 [Case study](https://www.vinceshao.com/works/teachable-snake) of the project
 
